@@ -13,3 +13,7 @@ function quebrar() {
     som.play()
     
 }
+function onoff() {
+    document.getElementById('interruptor').src="img/swon.png"
+    
+}
